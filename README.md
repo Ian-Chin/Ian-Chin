@@ -1,6 +1,6 @@
 <img src="banner.jpg" alt="banner" width="100%">
 
-# Hi👋, My name is Ian and here's everything you need to know about me!:
+# Hi👋, Welcome to my PortFolio
 Currently ICT Diploma student specialism in Data Informatics.<br>Studying in Asia Pacific University of Technology & Innovation (APU).<br>Looking for an internship position in Data analytics or IT related fields.
 
 <picture>
