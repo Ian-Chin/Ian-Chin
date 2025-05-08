@@ -3,7 +3,6 @@
 # Hi👋, Welcome to my PortFolio
 Currently ICT Diploma student specialism in Data Informatics.<br>Studying in Asia Pacific University of Technology & Innovation (APU).<br>Looking for an internship position in Data analytics or IT related fields.
 
-# Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake.svg" />
