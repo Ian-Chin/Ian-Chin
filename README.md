@@ -1,7 +1,7 @@
 <img src="banner.jpg" alt="banner" width="100%">
 
 # Hi👋, Welcome to my PortFolio
-✨Currently improving my Python and Google Collab skills.<br>🎓A second year ICT Diploma student specialism in Data Informatics.<br>Studying in Asia Pacific University of Technology & Innovation (APU).<br>🙏Looking for an internship position in Data analytics or IT related fields.
+✨Currently improving my Python and Google Collab skills.<br>🎓A second year ICT Diploma student specialism in Data Informatics.<br>🏫Studying in Asia Pacific University of Technology & Innovation (APU).<br>🙏Looking for an internship position in Data analytics or IT related fields.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake-dark.svg" />
