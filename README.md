@@ -1,5 +1,5 @@
 <!-- Portfolio Banner -->
-<img src="banner.jpg" alt="Portfolio Banner" width="100%">
+<img src="banner.png" alt="Portfolio Banner" width="100%">
 
 <!-- Title and Welcome -->
 <h1 align="center">👋 Hi, Welcome to my Portfolio</h1>
