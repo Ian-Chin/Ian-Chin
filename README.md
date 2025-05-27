@@ -43,18 +43,18 @@
 
 <!-- Video Editing Section -->
 <details>
-  <summary><strong>🎬 Extra Skill: Video Editing</strong></summary>
+  <summary><strong>🎬 Extra Skill: Video Editing/Thumbnail Graphic Designs</strong></summary>
   <br>
   <img src="yt.png" alt="YouTube Banner" width="100%"><br><br>
 
   <p>
-  🎮 While playing at the highest competitive level in games like Valorant, I realized I was pulling off some insane plays that deserved to be remembered. Since I was already playing seriously, I figured why not clip my best moments and turn them into highlight videos?
+  🎮 While playing at the highest competitive level in games, I realized I was pulling off some insane plays that deserved to be remembered. Since I was already playing seriously, I figured why not clip my best moments and turn them into highlight videos?
   </p>
 
   <img src="unnamed.webp" alt="Editing Moment" width="100%"><br><br>
 
   <p>
-  🎞️ That’s how I got into video editing. I started compiling my gameplay into montages and edits for YouTube, experimenting with timing, effects, sound sync, and sometimes the videos might go viral from 1k to 45k views. It began as a side skill but quickly became something I enjoyed and refined. Now, I use tools like DaVinci Resolve for video editing and canva/pixlr for thumbnails to bring energy and style to my content.
+  🎞️ That’s how I got into **video editing**. I started compiling my gameplay into montages and edits for YouTube, experimenting with timing, effects, sound sync, and sometimes the videos might go viral from 1k to 45k views. It began as a side skill but quickly became something I enjoyed and refined. Now, I use tools like **DaVinci Resolve** for video editing and **canva/pixlr** for thumbnails to bring energy and style to my content.
   </p>
 
   <img src="popular.png" alt="Popular Projects" width="100%"><br><br>
