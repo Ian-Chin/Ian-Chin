@@ -9,4 +9,8 @@ Currently ICT Diploma student specialism in Data Informatics.<br>Studying in Asi
 
 [![](https://visitcount.itsvg.in/api?id=Ian-Chin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake.svg" />
+</picture>
