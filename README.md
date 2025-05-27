@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
 </p>
 
 ---
@@ -72,9 +73,3 @@
   📫 DM or email for portfolio or resume!<br>
   +60-125775020 | iancjsheng@gmail.com | <a href="https://www.linkedin.com/in/ian-chin-jun-sheng-721364270/">LinkedIn</a>
 </p>
-
-
-
-
-
-
