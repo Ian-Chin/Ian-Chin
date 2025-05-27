@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Aspiring Data Analyst / Data Scientist</h3>
 
 <p align="center">
-✨ Improving my Python and Google Colab skills.<br>
+✨ Currently improving my Python and Google Colab skills.<br>
 🎓 ICT Diploma student (Data Informatics Specialism), Year 2.<br>
 🏫 Asia Pacific University of Technology & Innovation (APU).<br>
 🙏 Seeking internship opportunities in Data Analytics or IT-related fields.
