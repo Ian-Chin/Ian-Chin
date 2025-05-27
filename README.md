@@ -39,13 +39,6 @@
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
 </p>
 
-<<<<<<< HEAD
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake.svg" />
-</picture>
-=======
 ---
 
 <!-- Video Editing Section -->
@@ -80,4 +73,3 @@
   📫 DM or email for portfolio or resume!<br>
   +60-125775020 | iancjsheng@gmail.com | <a href="https://www.linkedin.com/in/ian-chin-jun-sheng-721364270/">LinkedIn</a>
 </p>
->>>>>>> 19e40a6490ab49de36b4bc356eeb426858dd8b4d
