@@ -70,5 +70,11 @@
   📬 <strong>Let's Connect:</strong><br>
   💼 Open to internships in Data / IT.<br>
   📫 DM or email for portfolio or resume!<br>
-  +60-125775020 | iancjsheng@gmail.com
+  +60-125775020 | iancjsheng@gmail.com | <a href="https://www.linkedin.com/in/ian-chin-jun-sheng-721364270/">LinkedIn</a>
 </p>
+
+
+
+
+
+
