@@ -21,7 +21,7 @@
 
 
 <!-- Skills Section -->
-<h2>💻 Languages and Tools</h2>
+<h2>💻 Languages and Tools I have placed my hands on</h2>
 
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
