@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
 ---
@@ -65,11 +66,3 @@
 </details>
 
 ---
-
-<!-- Contact / Final Touch -->
-<p align="center">
-  📬 <strong>Let's Connect:</strong><br>
-  💼 Open to internships in Data / IT.<br>
-  📫 DM or email for portfolio or resume!<br>
-  +60-125775020 | iancjsheng@gmail.com | <a href="https://www.linkedin.com/in/ian-chin-jun-sheng-721364270/">LinkedIn</a>
-</p>
