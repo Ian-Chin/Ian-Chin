@@ -3,9 +3,10 @@
 
 <!-- Title and Welcome -->
 <h1 align="center">👋 Hi, Welcome to my Portfolio</h1>
-<h3 align="center">🚀 Aspiring Data Analyst / Data Scientist</h3>
+<h3 align="center">🚀 Aspiring Data Analyst / AI Enthusiast</h3>
 
 <p align="center">
+💎 Founder of Award Winning Ravana.ai<br>
 ✨ Currently improving my Python, Tableau and PowerBI skills.<br>
 🎓 ICT Diploma student (Data Informatics Specialism), Year 2.<br>
 🏫 Asia Pacific University of Technology & Innovation (APU).<br>
