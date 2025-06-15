@@ -56,7 +56,11 @@
   <img src="yt.png" alt="YouTube Banner" width="100%"><br><br>
 
   <p>
-  🎞️ That’s how I got into **video editing**. I started compiling my gameplay into montages and edits for YouTube, experimenting with timing, effects, sound sync, and sometimes the videos might go viral from 1k to 45k views. It began as a side skill but quickly became something I enjoyed and refined. Now, I use tools like **DaVinci Resolve** for video editing and **canva/pixlr** for thumbnails to bring energy and style to my content.
+  🎞️ Skills & Achievements
+<li>Video Editing: DaVinci Resolve for professional-grade editing</li>
+<li>Graphic Design: Canva & Pixlr for eye-catching thumbnails</li>
+<li>Content Strategy: Viral content creation (1K to 45K+ views)</li>
+<li>Technical Skills: Sound synchronization, visual effects, timing</li>
   </p>
 
   <img src="popular.png" alt="Popular Projects" width="100%"><br><br>
@@ -69,3 +73,7 @@
 ---
 
 <img src="repository.png">
+<div align="center">
+  <i>⭐ Star my repositories if you find them interesting!</i><br>
+  <i>🤝 Open to collaborations and learning opportunities</i>
+</div>
