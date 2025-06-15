@@ -52,16 +52,15 @@
   <p>
   🎮 While playing at the highest competitive level in games, I realized I was pulling off some insane plays that deserved to be remembered. Since I was already playing seriously, I figured why not clip my best moments and turn them into highlight videos?
   </p>
-  
-  <img src="yt.png" alt="YouTube Banner" width="100%"><br><br>
 
-  <p>
-  🎞️ Skills & Achievements
-<li>Video Editing: DaVinci Resolve for professional-grade editing</li>
-<li>Graphic Design: Canva & Pixlr for eye-catching thumbnails</li>
-<li>Content Strategy: Viral content creation (1K to 45K+ views)</li>
-<li>Technical Skills: Sound synchronization, visual effects, timing</li>
-  </p>
+<p>
+    🎞️ Skills & Achievements
+  <li>Video Editing: DaVinci Resolve for professional-grade editing</li>
+  <li>Graphic Design: Canva & Pixlr for eye-catching thumbnails</li>
+  <li>Content Strategy: Viral content creation (1K to 45K+ views)</li>
+  <li>Technical Skills: Sound synchronization, visual effects, timing</li>
+</p>
+
 
   <img src="popular.png" alt="Popular Projects" width="100%"><br><br>
 
