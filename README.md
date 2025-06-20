@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RapidMiner-1F497D?style=for-the-badge&logo=rapidminer&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HitFilm%20Express-FF6B35?style=for-the-badge&logo=hitfilm&logoColor=white"/>
 </p>
 
 ---
