@@ -3,7 +3,7 @@
 
 <!-- Title and Welcome -->
 <h1 align="center">👋 Hi, Welcome to my Portfolio</h1>
-<h3 align="center">🚀 Aspiring Data Analyst / AI Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Data Analyst / Machine Learning Engineer</h3>
 
 <p align="center">
 💎 Founder of Award Winning Ravana.ai<br>
