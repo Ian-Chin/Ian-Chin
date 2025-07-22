@@ -46,6 +46,9 @@
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
   <img src="https://img.shields.io/badge/HitFilm%20Express-FF6B35?style=for-the-badge&logo=hitfilm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 
 ---
