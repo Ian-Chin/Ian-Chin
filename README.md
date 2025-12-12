@@ -3,14 +3,14 @@
 
 <!-- Title and Welcome -->
 <h1 align="center">👋 Hi, Welcome to my Portfolio</h1>
-<h3 align="center">🚀 Aspiring Data Analyst / Machine Learning Engineer</h3>
+<h3 align="center">🚀 Aspiring Data Analyst / Machine Learning Engineer / Entrepreneur</h3>
 
 <p align="center">
+🙏 Data Analyst Intern @ DAXONET Consulting SDN BHD
 💎 Founder of Award Winning Ravana.ai<br>
 ✨ Currently improving my Python, R , Tableau and PowerBI skills.<br>
 🎓 ICT Diploma student (Data Informatics Specialism), Year 2.<br>
 🏫 Asia Pacific University of Technology & Innovation (APU).<br>
-🙏 Seeking internship opportunities in Data Analytics or IT-related fields.
 </p>
 
 <!-- GitHub Snake Contribution Animation -->
