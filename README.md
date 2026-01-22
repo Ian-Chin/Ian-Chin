@@ -9,12 +9,11 @@
 
 <!-- Title and Welcome -->
 <h1 align="center">👋 Hi, Welcome to my Portfolio</h1>
-<h3 align="center">🚀 Aspiring Data Analyst / Machine Learning Engineer / Entrepreneur</h3>
+<h3 align="center">🚀 BI Analyst / AI Developer / Entrepreneur</h3>
 
 <p align="center">
-🙏 Data Analyst Intern @ DAXONET Consulting SDN BHD<br>
-💎 Founder of Award Winning Ravana.ai<br>
-✨ Currently improving my Python, R , Tableau and PowerBI skills.<br>
+🙏 Part-Time Business Intelligence Analyst @ DAXONET Consulting SDN BHD<br>
+✨ Building iunami AI Agency<br>
 🎓 ICT Diploma student (Data Informatics Specialism), Year 2.<br>
 🏫 Asia Pacific University of Technology & Innovation (APU).<br>
 </p>
@@ -60,30 +59,7 @@
 ---
 
 <!-- Video Editing Section -->
-<details>
-  <summary><strong>🎬 Extra Skill: Video Editing/Thumbnail Graphic Designs</strong></summary>
-  <br>
-  <img src="unnamed.webp" alt="Editing Moment" width="100%"><br><br>
-
-  <p>
-  🎮 While playing at the highest competitive level in games, I realized I was pulling off some insane plays that deserved to be remembered. Since I was already playing seriously, I figured why not clip my best moments and turn them into highlight videos?
-  </p>
-
-<p>
-    🎞️ Skills & Achievements
-  <li>Video Editing: DaVinci Resolve for professional-grade editing</li>
-  <li>Graphic Design: Canva & Pixlr for eye-catching thumbnails</li>
-  <li>Content Strategy: Viral content creation (1K to 45K+ views)</li>
-  <li>Technical Skills: Sound synchronization, visual effects, timing</li>
-</p>
-
-
-  <img src="popular.png" alt="Popular Projects" width="100%"><br><br>
-
-  <p>
-  📺 Feel free to check out my channel for some of the projects I’ve worked on!
-  </p>
-</details>
+<p><a href="heyianofficial.my.canva.site/home">Check Out Video Content Strategist PortFolio Here.</a></p>
 
 ---
 
