@@ -59,7 +59,11 @@
 ---
 
 <!-- Video Editing Section -->
-<p><a href="heyianofficial.my.canva.site/home">Check Out Video Content Strategist PortFolio Here.</a></p>
+<p>
+  <a href="https://heyianofficial.my.canva.site/home" target="_blank" rel="noopener noreferrer">
+    Check Out Video Content Strategist Portfolio Here.
+  </a>
+</p>
 
 ---
 
