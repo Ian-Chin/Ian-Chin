@@ -1,6 +1,6 @@
 <!-- Portfolio Banner -->
 <img 
-  src="https://github.com/user-attachments/assets/f32c0125-1bda-4b17-9133-30b6f6b57e35"
+  src="https://github.com/user-attachments/assets/39b08dfc-6cfc-4782-a2e1-41379afc9b4e"
   alt="Portfolio Banner"
   style="width:100%; max-width:100%;"
 />
