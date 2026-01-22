@@ -1,5 +1,5 @@
 <!-- Portfolio Banner -->
-<img src="banner.png" alt="Portfolio Banner" width="100%">
+![Image](https://github.com/user-attachments/assets/f32c0125-1bda-4b17-9133-30b6f6b57e35)
 
 <!-- Title and Welcome -->
 <h1 align="center">👋 Hi, Welcome to my Portfolio</h1>
