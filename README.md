@@ -1,9 +1,11 @@
 <!-- Portfolio Banner -->
-<img 
-  src="https://github.com/user-attachments/assets/39b08dfc-6cfc-4782-a2e1-41379afc9b4e"
-  alt="Portfolio Banner"
-  style="width:100%; max-width:100%;"
-/>
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/39b08dfc-6cfc-4782-a2e1-41379afc9b4e"
+    alt="Portfolio Banner"
+    style="width:100%; max-width:100%;"
+  />
+</p>
 
 <!-- Title and Welcome -->
 <h1 align="center">👋 Hi, Welcome to my Portfolio</h1>
