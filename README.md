@@ -67,6 +67,14 @@
 
 ---
 
+<div align="center">
+
+> “I’ll see you at the top because the bottom is too crowded.  
+> But we never look down on anybody unless we’re willing to help them up.”  
+> – Zig Ziglar
+
+</div>
+
 <img src="repository.png">
 <div align="center">
   <i>⭐ Star my repositories if you find them interesting!</i><br>
