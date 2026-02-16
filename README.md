@@ -12,7 +12,7 @@
 <h3 align="center">🚀 BI Analyst / AI Developer / Entrepreneur</h3>
 
 <p align="center">
-🙏 Part-Time Business Intelligence Analyst @ DAXONET Consulting SDN BHD<br>
+🙏 Part-Time Business Intelligence Analyst<br>
 ✨ Building iunami AI Agency<br>
 🎓 ICT Diploma student (Data Informatics Specialism), Year 2.<br>
 🏫 Asia Pacific University of Technology & Innovation (APU).<br>
