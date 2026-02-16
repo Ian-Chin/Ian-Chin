@@ -9,7 +9,7 @@
 
 <!-- Title and Welcome -->
 <h1 align="center">👋 Hi, Welcome to my Portfolio</h1>
-<h3 align="center">🚀 BI Analyst / AI Developer / Entrepreneur</h3>
+<h3 align="center">🚀 BI Analyst / Software Engineer / AI Developer / Entrepreneur</h3>
 
 <p align="center">
 🙏 Part-Time Business Intelligence Analyst<br>
