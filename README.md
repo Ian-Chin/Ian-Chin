@@ -8,14 +8,14 @@
 </p>
 
 <!-- Title and Welcome -->
-<h1 align="center">👋 Hi, Welcome to my Portfolio</h1>
-<h3 align="center">🚀 BI Analyst / Software Engineer / AI Developer / Entrepreneur</h3>
+<h1 align="center">Hi, Welcome to my Portfolio</h1>
+<h3 align="center">BI Analyst / Software Engineer / AI Developer / Entrepreneur</h3>
 
 <p align="center">
-🙏 Part-Time Business Intelligence Analyst<br>
-✨ Building iunami AI Agency<br>
-🎓 ICT Diploma student (Data Informatics Specialism), Year 2.<br>
-🏫 Asia Pacific University of Technology & Innovation (APU).<br>
+Part-Time Business Intelligence Analyst<br>
+Building iunami AI Agency<br>
+ICT Diploma student (Data Informatics Specialism), Year 2.<br>
+Asia Pacific University of Technology & Innovation (APU).<br>
 </p>
 
 <!-- GitHub Snake Contribution Animation -->
@@ -26,7 +26,7 @@
 </picture>
 
 <!-- Skills Section -->
-<h2>💻 Languages and Tools I have placed my hands on</h2>
+<h2>Languages and Tools I have placed my hands on</h2>
 
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
