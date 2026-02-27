@@ -13,8 +13,8 @@
 
 <p align="center">
 Part-Time Business Intelligence Analyst<br>
-Building iunami AI Agency<br>
-Bachelor of Computer Science (Artificial intelligence), Year 2.<br>
+Building <a href="https://iunami.com" target="_blank">iunami AI Agency</a><br>
+Bachelor of Computer Science (Artificial Intelligence), Year 2.<br>
 Asia Pacific University of Technology & Innovation (APU).<br>
 </p>
 
