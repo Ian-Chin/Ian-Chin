@@ -13,6 +13,7 @@
 
 <p align="center">
 Part-Time Business Intelligence Analyst<br>
+I'm on <a href="https://iunami.com](https://www.thestar.com.my/news/education/2025/06/29/double-gold-for-apu-diploma-team" target="_blank">the Star</a> news<br>
 Building <a href="https://iunami.com" target="_blank">iunami AI Agency</a><br>
 Bachelor of Computer Science (Artificial Intelligence), Year 2.<br>
 Asia Pacific University of Technology & Innovation (APU).<br>
