@@ -14,7 +14,7 @@
 <p align="center">
 Part-Time Business Intelligence Analyst<br>
 Building iunami AI Agency<br>
-ICT Diploma student (Data Informatics Specialism), Year 2.<br>
+Bachelor of Computer Science (Artificial intelligence), Year 2.<br>
 Asia Pacific University of Technology & Innovation (APU).<br>
 </p>
 
