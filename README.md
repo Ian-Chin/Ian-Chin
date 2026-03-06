@@ -70,7 +70,7 @@ Asia Pacific University of Technology & Innovation (APU).<br>
 <!-- Video Editing Section -->
 <p>
   <a href="https://heyianofficial.my.canva.site/home" target="_blank" rel="noopener noreferrer">
-    Check Out Video Content Strategist Portfolio Here.
+    I used to edit video for a living.
   </a>
 </p>
 
