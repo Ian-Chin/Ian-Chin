@@ -14,6 +14,7 @@
 <p align="center">
 Part-Time Business Intelligence Analyst<br>
 Building <a href="https://iunami.com">iunami AI Agency</a><br>
+B2B/B2C AI SaaS<br>
 Bachelor of Computer Science (Artificial Intelligence), Year 2.<br>
 Asia Pacific University of Technology & Innovation (APU).<br>
 </p>
