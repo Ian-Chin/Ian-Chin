@@ -19,7 +19,25 @@ Bachelor of Computer Science (Artificial Intelligence), Year 2.<br>
 Asia Pacific University of Technology & Innovation (APU).<br>
 </p>
 
-[![Ian's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&theme=react-dark&hide_border=true&area=true)](https://github.com/Ian-Chin)
+<div align="center">
+
+<table>
+<tr>
+<td width="70%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=58A6FF&line=7C3AED&point=38BDF8&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Journey" width="100%"/>
+
+</td>
+
+<td width="30%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Chin&layout=pie&theme=transparent&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 <!-- GitHub Snake Contribution Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake-dark.svg" />
