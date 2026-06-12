@@ -19,6 +19,7 @@ Bachelor of Computer Science (Artificial Intelligence), Year 2.<br>
 Asia Pacific University of Technology & Innovation (APU).<br>
 </p>
 
+[![Ian's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&theme=react-dark&hide_border=true&area=true)](https://github.com/Ian-Chin)
 <!-- GitHub Snake Contribution Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake-dark.svg" />
