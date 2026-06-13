@@ -1,6 +1,6 @@
 <!-- Portfolio Banner -->
 <p align="center">
-  <img width="800" height="200" alt="Image" src="https://github.com/user-attachments/assets/db0bdeef-c5bb-4491-859c-b72b6a0e8cf0" />
+  <img width="800" height="200" alt="Image" src="https://github.com/user-attachments/assets/0bf01a61-8c85-4eed-a775-e306bd11cb50" />
 </p>
 
 <!-- Title and Welcome -->
