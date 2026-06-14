@@ -21,13 +21,17 @@ Asia Pacific University of Technology & Innovation (APU).<br>
 <tr>
 <td width="70%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=58A6FF&line=7C3AED&point=38BDF8&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Journey" width="100%"/>
-
-</td>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=C9D1D9&line=FF003C&point=FF4D6D&area=true&area_color=4A0404&hide_border=true&radius=16&height=320&custom_title=Code%20%7C%20Build%20%7C%20Ship"
+  width="100%"
+/>
 
 <td width="30%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Chin&layout=pie&theme=transparent&hide_border=true" width="100%"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Chin&layout=compact&theme=transparent&hide_border=true&title_color=FF003C&text_color=E5E7EB"
+  width="100%"
+/>
 
 </td>
 </tr>
