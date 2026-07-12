@@ -28,10 +28,8 @@ Asia Pacific University of Technology & Innovation (APU).<br>
 
 <td width="30%">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Chin&layout=compact&theme=transparent&hide_border=true&title_color=FF003C&text_color=E5E7EB"
-  width="100%"
-/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ian-Chin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 </td>
 </tr>
