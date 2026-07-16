@@ -10,6 +10,7 @@
 <p align="center">
 Part-Time Business Intelligence Analyst<br>
 Building <a href="https://iunami.com">Iunami Agentics</a><br>
+<a href="mailto:ian.chin@iunami.com">ian.chin@iunami.com</a> for business inquiries <br>
 B2B/B2C AI SaaS<br>
 Bachelor of Computer Science (Artificial Intelligence), Year 2.<br>
 Asia Pacific University of Technology & Innovation (APU).<br>
