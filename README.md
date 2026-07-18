@@ -1,4 +1,4 @@
-<!-- Portfolio Banner -->
+ <!-- Portfolio Banner -->
 <p align="center">
   <img width="800" height="200" alt="Image" src="https://github.com/user-attachments/assets/0bf01a61-8c85-4eed-a775-e306bd11cb50" />
 </p>
