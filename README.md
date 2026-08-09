@@ -22,115 +22,40 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 
 ---
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=C9D1D9&line=FF003C&point=FF4D6D&area=true&area_color=4A0404&title_color=FF003C&hide_border=true&radius=16&height=300&custom_title=Code%20%7C%20Build%20%7C%20Ship" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=24292F&line=FF003C&point=FF4D6D&area=true&area_color=FFC9CE&title_color=FF003C&hide_border=true&radius=16&height=300&custom_title=Code%20%7C%20Build%20%7C%20Ship" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=C9D1D9&line=FF003C&point=FF4D6D&area=true&area_color=4A0404&title_color=FF003C&hide_border=true&radius=16&height=300&custom_title=Code%20%7C%20Build%20%7C%20Ship" width="100%" alt="Contribution activity over the past year" />
-</picture>
+## In the Press
 
 <table>
 <tr>
-<td width="33%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Ian-Chin&theme=dark&hide_border=true&bg_color=00000000&title_color=FF003C&layout=compact&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Ian-Chin&theme=default&hide_border=true&bg_color=00000000&title_color=FF003C&layout=compact&langs_count=8" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ian-Chin&theme=dark&hide_border=true&bg_color=00000000&title_color=FF003C&layout=compact&langs_count=8" width="100%" alt="Most used languages by code volume" />
-</picture>
-
-</td>
-<td width="33%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=transparent" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=transparent" width="100%" alt="Top languages by repository count" />
-</picture>
-
-</td>
 <td width="34%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=transparent" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=transparent" width="100%" alt="Most committed languages" />
-</picture>
-
+  <a href="https://www.thestar.com.my/news/education/2025/06/29/double-gold-for-apu-diploma-team"><img src="https://apicms.thestar.com.my/uploads/images/2025/06/29/3390002.jpg" width="230" alt="Double gold for APU diploma team — The Star" /></a>
+</td>
+<td width="66%">
+  <b><a href="https://www.thestar.com.my/news/education/2025/06/29/double-gold-for-apu-diploma-team">Double gold for APU diploma team</a></b><br>
+  <sub><b>The Star</b> &middot; 29 June 2025</sub><br><br>
+  Four APU diploma students swept both the Gold Award and the Best of Gold Award at the Edu@Innovate 2025 International Education Innovation Competition, held at Universiti Pendidikan Sultan Idris. Their entry, <i>Ravana Reimagined: Malaysia's Wayang Kulit Experience</i>, is an AI-powered chatbot that keeps Wayang Kulit alive through interactive storytelling and educational activities.
+</td>
+</tr>
+<tr>
+<td width="34%">
+  <a href="https://cj.my/154490/apu-students-wins-double-gold-at-eduinnovate/"><img src="https://cj.my/wp-content/uploads/2025/06/apu_win-double_2-1.jpg" width="230" alt="APU students wins double gold at Edu@Innovate — Citizens Journal" /></a>
+</td>
+<td width="66%">
+  <b><a href="https://cj.my/154490/apu-students-wins-double-gold-at-eduinnovate/">APU students wins double gold at Edu@Innovate</a></b><br>
+  <sub><b>Citizens Journal Malaysia</b> &middot; 24 June 2025</sub><br><br>
+  A Diploma in ICT team from APU took home Gold and Best of Gold at Edu@Innovate 2025, outperforming Master's and PhD-level entries. <i>Ravana Reimagined</i> reimagines traditional Wayang Kulit as an AI chatbot with storytelling, quizzes, and a virtual museum built to pull young Malaysians back to the art form.
+</td>
+</tr>
+<tr>
+<td width="34%">
+  <a href="https://www.apu.edu.my/news/apus-young-innovators-crowned-double-gold-eduinnovate-2025"><img src="https://publicwebsite-media.apu.edu.my/assets/inline-images/250526%20Eduinnovate%202025_1280x780%20CampusTV.jpg" width="230" alt="APU's Young Innovators Crowned Double Gold at Edu@Innovate 2025 — APU News" /></a>
+</td>
+<td width="66%">
+  <b><a href="https://www.apu.edu.my/news/apus-young-innovators-crowned-double-gold-eduinnovate-2025">APU's Young Innovators Crowned Double Gold at Edu@Innovate 2025</a></b><br>
+  <sub><b>APU News</b> &middot; 18 June 2025</sub><br><br>
+  APU's own coverage of the win: four Diploma in Data Informatics students earned a Gold Award and the Best Gold Award at the International Education Innovation Competition for an AI-powered chatbot that preserves Malaysia's traditional shadow puppetry through interactive storytelling and a virtual museum.
 </td>
 </tr>
 </table>
-
-</div>
-
-<!-- GitHub Snake Contribution Animation -->
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake.svg" />
-</picture>
-</p>
-
----
-
-## Languages and Tools I have placed my hands on
-
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37" alt="Expo" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/RapidMiner-1F497D?style=for-the-badge&logo=rapidminer&logoColor=white" alt="RapidMiner" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" alt="Clip Studio Paint" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/HitFilm%20Express-FF6B35?style=for-the-badge&logo=hitfilm&logoColor=white" alt="HitFilm Express" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</p>
 
 ---
 
@@ -176,60 +101,6 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 </table>
 
 </details>
-
----
-
-## Spoken Languages
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%"><b>Chinese</b><br><sub>Native or bilingual proficiency</sub></td>
-<td align="center" width="25%"><b>English</b><br><sub>Native or bilingual proficiency</sub></td>
-<td align="center" width="25%"><b>Cantonese</b><br><sub>Professional working proficiency</sub></td>
-<td align="center" width="25%"><b>Malay</b><br><sub>Elementary proficiency</sub></td>
-</tr>
-</table>
-
-</div>
-
----
-
-## In the Press
-
-<table>
-<tr>
-<td width="34%">
-  <a href="https://www.thestar.com.my/news/education/2025/06/29/double-gold-for-apu-diploma-team"><img src="https://apicms.thestar.com.my/uploads/images/2025/06/29/3390002.jpg" width="100%" alt="Double gold for APU diploma team — The Star" /></a>
-</td>
-<td width="66%">
-  <b><a href="https://www.thestar.com.my/news/education/2025/06/29/double-gold-for-apu-diploma-team">Double gold for APU diploma team</a></b><br>
-  <sub><b>The Star</b> &middot; 29 June 2025</sub><br><br>
-  Four APU diploma students swept both the Gold Award and the Best of Gold Award at the Edu@Innovate 2025 International Education Innovation Competition, held at Universiti Pendidikan Sultan Idris. Their entry, <i>Ravana Reimagined: Malaysia's Wayang Kulit Experience</i>, is an AI-powered chatbot that keeps Wayang Kulit alive through interactive storytelling and educational activities.
-</td>
-</tr>
-<tr>
-<td width="34%">
-  <a href="https://cj.my/154490/apu-students-wins-double-gold-at-eduinnovate/"><img src="https://cj.my/wp-content/uploads/2025/06/apu_win-double_2-1.jpg" width="100%" alt="APU students wins double gold at Edu@Innovate — Citizens Journal" /></a>
-</td>
-<td width="66%">
-  <b><a href="https://cj.my/154490/apu-students-wins-double-gold-at-eduinnovate/">APU students wins double gold at Edu@Innovate</a></b><br>
-  <sub><b>Citizens Journal Malaysia</b> &middot; 24 June 2025</sub><br><br>
-  A Diploma in ICT team from APU took home Gold and Best of Gold at Edu@Innovate 2025, outperforming Master's and PhD-level entries. <i>Ravana Reimagined</i> reimagines traditional Wayang Kulit as an AI chatbot with storytelling, quizzes, and a virtual museum built to pull young Malaysians back to the art form.
-</td>
-</tr>
-<tr>
-<td width="34%">
-  <a href="https://www.apu.edu.my/news/apus-young-innovators-crowned-double-gold-eduinnovate-2025"><img src="https://publicwebsite-media.apu.edu.my/assets/inline-images/250526%20Eduinnovate%202025_1280x780%20CampusTV.jpg" width="100%" alt="APU's Young Innovators Crowned Double Gold at Edu@Innovate 2025 — APU News" /></a>
-</td>
-<td width="66%">
-  <b><a href="https://www.apu.edu.my/news/apus-young-innovators-crowned-double-gold-eduinnovate-2025">APU's Young Innovators Crowned Double Gold at Edu@Innovate 2025</a></b><br>
-  <sub><b>APU News</b> &middot; 18 June 2025</sub><br><br>
-  APU's own coverage of the win: four Diploma in Data Informatics students earned a Gold Award and the Best Gold Award at the International Education Innovation Competition for an AI-powered chatbot that preserves Malaysia's traditional shadow puppetry through interactive storytelling and a virtual museum.
-</td>
-</tr>
-</table>
 
 ---
 
@@ -358,6 +229,135 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 
 ---
 
+## Languages and Tools I have placed my hands on
+
+<p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=%23D04A37" alt="Expo" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/RapidMiner-1F497D?style=flat-square&logo=rapidminer&logoColor=white" alt="RapidMiner" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black" alt="Cisco" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white" alt="Swagger" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=flat-square&logo=ClipStudioPaint&logoColor=white" alt="Clip Studio Paint" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/HitFilm%20Express-FF6B35?style=flat-square&logo=hitfilm&logoColor=white" alt="HitFilm Express" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
+
+---
+
+## Spoken Languages
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%"><b>Chinese</b><br><sub>Native or bilingual proficiency</sub></td>
+<td align="center" width="25%"><b>English</b><br><sub>Native or bilingual proficiency</sub></td>
+<td align="center" width="25%"><b>Cantonese</b><br><sub>Professional working proficiency</sub></td>
+<td align="center" width="25%"><b>Malay</b><br><sub>Elementary proficiency</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=C9D1D9&line=FF003C&point=FF4D6D&area=true&area_color=4A0404&title_color=FF003C&hide_border=true&radius=16&height=250&custom_title=Code%20%7C%20Build%20%7C%20Ship" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=24292F&line=FF003C&point=FF4D6D&area=true&area_color=FFC9CE&title_color=FF003C&hide_border=true&radius=16&height=250&custom_title=Code%20%7C%20Build%20%7C%20Ship" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=C9D1D9&line=FF003C&point=FF4D6D&area=true&area_color=4A0404&title_color=FF003C&hide_border=true&radius=16&height=250&custom_title=Code%20%7C%20Build%20%7C%20Ship" width="100%" alt="Contribution activity over the past year" />
+</picture>
+
+<table>
+<tr>
+<td width="33%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Ian-Chin&theme=dark&hide_border=true&bg_color=00000000&title_color=FF003C&layout=compact&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Ian-Chin&theme=default&hide_border=true&bg_color=00000000&title_color=FF003C&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ian-Chin&theme=dark&hide_border=true&bg_color=00000000&title_color=FF003C&layout=compact&langs_count=8" width="100%" alt="Most used languages by code volume" />
+</picture>
+
+</td>
+<td width="33%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=transparent" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=transparent" width="100%" alt="Top languages by repository count" />
+</picture>
+
+</td>
+<td width="34%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=transparent" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=transparent" width="100%" alt="Most committed languages" />
+</picture>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- GitHub Snake Contribution Animation -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake.svg" />
+</picture>
+</p>
+
+---
+
 <p align="center">
   <i>“I’ll see you at the top because the bottom is too crowded.<br>
   But we never look down on anybody unless we’re willing to help them up.”</i><br>
@@ -365,10 +365,6 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 </p>
 
 ---
-
-<p align="center">
-  <img src="repository.png" width="100%" alt="Repository stats" />
-</p>
 
 <p align="center">
   <i>⭐ Star my repositories if you find them interesting!</i><br>
