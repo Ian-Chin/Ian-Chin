@@ -17,6 +17,7 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 <p align="center">
   <a href="mailto:ian.chin@iunami.com"><img src="https://img.shields.io/badge/Business_Inquiries-ian.chin@iunami.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://heyianofficial.my.canva.site/home"><img src="https://img.shields.io/badge/Video_Editor_Portfolio-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Video editor portfolio" /></a>
+  <a href="Ian-Chin-Resume-2026.pdf"><img src="https://img.shields.io/badge/Résumé-2026-1F6FEB?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé 2026 (PDF)" /></a>
 </p>
 
 ---
@@ -43,18 +44,18 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 <td width="33%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=github_dark" width="100%" alt="Top languages by repository count" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=transparent" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Chin&theme=transparent" width="100%" alt="Top languages by repository count" />
 </picture>
 
 </td>
 <td width="34%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=github_dark" width="100%" alt="Most committed languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=transparent" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Chin&theme=transparent" width="100%" alt="Most committed languages" />
 </picture>
 
 </td>
@@ -133,6 +134,68 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 
 ---
 
+<details>
+<summary>&nbsp;<b>Experience</b></summary>
+
+<br>
+
+<table>
+<tr>
+<td width="30%" valign="top">
+  <b>Daxonet Group</b><br>
+  <sub>Petaling Jaya, Selangor, Malaysia</sub>
+</td>
+<td width="70%" valign="top">
+  <b>Business Intelligence Analyst</b><br>
+  <sub>Part-time &middot; Hybrid &middot; Jan 2026 &ndash; Present</sub><br><br>
+  Managing the Power BI projects &middot; Building and redesigning the responsive company website &middot; R&amp;D developer, testing AI tools, skills, MCPs and plugins.
+</td>
+</tr>
+<tr>
+<td width="30%" valign="top">
+  <b>Daxonet Group</b><br>
+  <sub>Petaling Jaya, Selangor, Malaysia</sub>
+</td>
+<td width="70%" valign="top">
+  <b>Internship Trainee &mdash; Data Analyst Intern</b><br>
+  <sub>Internship &middot; On-site &middot; Sep 2025 &ndash; Dec 2025</sub><br><br>
+  Developed and enhanced Power BI dashboards using Autocount SQL data &middot; Integrated dashboards into a mobile application with secure backend access &middot; Performed data validation and reporting on datasets exceeding 5M+ rows.
+</td>
+</tr>
+<tr>
+<td width="30%" valign="top">
+  <b>Freelance</b><br>
+  <sub>Self-employed</sub>
+</td>
+<td width="70%" valign="top">
+  <b>Freelance Video Editor</b><br>
+  <sub>Freelance &middot; Remote &middot; Jan 2017 &ndash; Jun 2026</sub><br><br>
+  Ian Chin | Video Content Strategist.
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+## Spoken Languages
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%"><b>Chinese</b><br><sub>Native or bilingual proficiency</sub></td>
+<td align="center" width="25%"><b>English</b><br><sub>Native or bilingual proficiency</sub></td>
+<td align="center" width="25%"><b>Cantonese</b><br><sub>Professional working proficiency</sub></td>
+<td align="center" width="25%"><b>Malay</b><br><sub>Elementary proficiency</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## In the Press
 
 <table>
@@ -172,7 +235,7 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 
 <!-- CERTS:START -->
 <details>
-<summary>&nbsp;<b>Certifications &amp; Credentials</b>&nbsp;&nbsp;<sub>33 credentials</sub></summary>
+<summary>&nbsp;<b>Certifications &amp; Credentials</b></summary>
 
 <br>
 
