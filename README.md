@@ -1,6 +1,6 @@
 <!-- Portfolio Banner -->
 <p align="center">
-  <img width="800" height="200" alt="Ian Chin — portfolio banner" src="https://github.com/user-attachments/assets/0bf01a61-8c85-4eed-a775-e306bd11cb50" />
+  <img width="100%" alt="Ian Chin — portfolio banner" src="https://github.com/user-attachments/assets/0bf01a61-8c85-4eed-a775-e306bd11cb50" />
 </p>
 
 <!-- Title and Welcome -->
@@ -15,12 +15,11 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 </p>
 
 <p align="center">
-  <a href="https://iunami.com"><img src="https://img.shields.io/badge/Website-iunami.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
   <a href="mailto:ian.chin@iunami.com"><img src="https://img.shields.io/badge/Business_Inquiries-ian.chin@iunami.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://heyianofficial.my.canva.site/home"><img src="https://img.shields.io/badge/Video_Editor_Portfolio-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Video editor portfolio" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
 
 <div align="center">
 
@@ -28,16 +27,20 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 <tr>
 <td width="70%">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=C9D1D9&line=FF003C&point=FF4D6D&area=true&area_color=4A0404&hide_border=true&radius=16&height=320&custom_title=Code%20%7C%20Build%20%7C%20Ship"
-  width="100%"
-  alt="Contribution activity graph"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=C9D1D9&line=FF003C&point=FF4D6D&area=true&area_color=4A0404&hide_border=true&radius=16&height=320&custom_title=Code%20%7C%20Build%20%7C%20Ship" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=24292F&line=FF003C&point=FF4D6D&area=true&area_color=FFC9CE&hide_border=true&radius=16&height=320&custom_title=Code%20%7C%20Build%20%7C%20Ship" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Chin&bg_color=00000000&color=C9D1D9&line=FF003C&point=FF4D6D&area=true&area_color=4A0404&hide_border=true&radius=16&height=320&custom_title=Code%20%7C%20Build%20%7C%20Ship" width="100%" alt="Contribution activity graph" />
+</picture>
 
 </td>
 <td width="30%">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ian-Chin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Ian-Chin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Ian-Chin&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ian-Chin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+</picture>
 
 </td>
 </tr>
@@ -46,15 +49,18 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 </div>
 
 <!-- GitHub Snake Contribution Animation -->
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-Chin/Ian-Chin/output/github-snake.svg" />
 </picture>
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
 
-## Languages and Tools I have placed my hands on
+<details>
+<summary>&nbsp;<b>Languages and Tools I have placed my hands on</b>&nbsp;&nbsp;<sub>50 tools</sub></summary>
 
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -111,107 +117,13 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 
----
-
-## Certifications &amp; Credentials
-
-<!-- CERTS:START -->
-<details>
-<summary><b>View all 33 certificates</b> &mdash; click to expand</summary>
-
-<br>
-
-#### Awards &amp; Competitions
-
-<table>
-<tr>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGLkpNGI75YhA/profile-treasury-document-cover-images_1920/B56Zb2gddrH4BE-/0/1747892428795?e=1786899600&v=beta&t=-JJcpxL5pxttum8DaOqeesMW0Ted0bWPSsFBUM0t0Wg"><img src="https://media.licdn.com/dms/image/v2/D562DAQGLkpNGI75YhA/profile-treasury-document-cover-images_1920/B56Zb2gddrH4BE-/0/1747892428795?e=1786899600&v=beta&t=-JJcpxL5pxttum8DaOqeesMW0Ted0bWPSsFBUM0t0Wg" width="170" alt="Gold Award - Edu@Innovate 2025" /></a><br><sub><b>Gold Award &mdash; Edu@Innovate 2025</b><br>Universiti Pendidikan Sultan Idris &middot; May 2025</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHYn79nbJqplA/profile-treasury-document-cover-images_1920/B56Zb2ggfXHoBE-/0/1747892441266?e=1786899600&v=beta&t=z4Ta0DHGOd3GERLcMt1QSrVu5s8O64-bOL1t9V6efXc"><img src="https://media.licdn.com/dms/image/v2/D562DAQHYn79nbJqplA/profile-treasury-document-cover-images_1920/B56Zb2ggfXHoBE-/0/1747892441266?e=1786899600&v=beta&t=z4Ta0DHGOd3GERLcMt1QSrVu5s8O64-bOL1t9V6efXc" width="170" alt="Best of Gold - Edu@Innovate 2025" /></a><br><sub><b>Best of Gold &mdash; Edu@Innovate 2025</b><br>Universiti Pendidikan Sultan Idris &middot; May 2025</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEIs2l9j6_iBA/profile-treasury-document-cover-images_1920/B56Zb2gjTeHUBE-/0/1747892453536?e=1786899600&v=beta&t=IbU5nVzbsb7WY3C1Dwxj9rprzhB2ggT3Jq_v7Xy8jjg"><img src="https://media.licdn.com/dms/image/v2/D562DAQEIs2l9j6_iBA/profile-treasury-document-cover-images_1920/B56Zb2gjTeHUBE-/0/1747892453536?e=1786899600&v=beta&t=IbU5nVzbsb7WY3C1Dwxj9rprzhB2ggT3Jq_v7Xy8jjg" width="170" alt="Edu@Innovate 2025 - Participation" /></a><br><sub><b>Edu@Innovate 2025 &mdash; Participation</b><br>Universiti Pendidikan Sultan Idris &middot; May 2025</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEDYJ1PxnCOfQ/profile-treasury-document-cover-images_1280/B56Z7VmpgUJ0BA-/0/1781700140342?e=1786899600&v=beta&t=3hqdbIItW1DXWZ9s4X77DC9_EQNP82C37EJDZcHOckw"><img src="https://media.licdn.com/dms/image/v2/D562DAQEDYJ1PxnCOfQ/profile-treasury-document-cover-images_1280/B56Z7VmpgUJ0BA-/0/1781700140342?e=1786899600&v=beta&t=3hqdbIItW1DXWZ9s4X77DC9_EQNP82C37EJDZcHOckw" width="170" alt="MyAI Future Hackathon - Finalist" /></a><br><sub><b>MyAI Future Hackathon &mdash; Finalist</b><br>GDG on Campus, UTM &middot; 2025</sub></td>
-</tr>
-<tr>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQFedpNzPGqeXQ/profile-treasury-document-images_1280/B56Z5TSbpVKkAg-/1/1779513802445?e=1787184000&v=beta&t=Jppw9VJtOOyJ37JDwqhy7Mcq7hhLqWwXtrCqVnmhegY"><img src="https://media.licdn.com/dms/image/v2/D562DAQFedpNzPGqeXQ/profile-treasury-document-images_1280/B56Z5TSbpVKkAg-/1/1779513802445?e=1787184000&v=beta&t=Jppw9VJtOOyJ37JDwqhy7Mcq7hhLqWwXtrCqVnmhegY" width="170" alt="MyAI Future Hackathon - Participation" /></a><br><sub><b>MyAI Future Hackathon &mdash; Participation</b><br>GDG on Campus, UTM &middot; 2025</sub></td>
-</tr>
-</table>
-
-#### AI &amp; Prompt Engineering
-
-<table>
-<tr>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQH70bjOjmOFMw/profile-treasury-document-images_1280/B56Z.9kylgHcAg-/1/1785591967153?e=1787184000&v=beta&t=VbLEPqKxK3M5SaONuT2dLg8msW1yiHg1ifzHH9H582A"><img src="https://media.licdn.com/dms/image/v2/D562DAQH70bjOjmOFMw/profile-treasury-document-images_1280/B56Z.9kylgHcAg-/1/1785591967153?e=1787184000&v=beta&t=VbLEPqKxK3M5SaONuT2dLg8msW1yiHg1ifzHH9H582A" width="170" alt="Artificial Intelligence Fundamentals" /></a><br><sub><b>Artificial Intelligence Fundamentals</b><br>IBM SkillsBuild &middot; Aug 2026</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGO4fmBJpx55g/profile-treasury-document-cover-images_800/B56Z5Ae5vAIYA8-/0/1779198305366?e=1786899600&v=beta&t=6sZjcbipBxgYYcoTYCGHoT1TwYPcPDaLtgAhKd60lUE"><img src="https://media.licdn.com/dms/image/v2/D562DAQGO4fmBJpx55g/profile-treasury-document-cover-images_800/B56Z5Ae5vAIYA8-/0/1779198305366?e=1786899600&v=beta&t=6sZjcbipBxgYYcoTYCGHoT1TwYPcPDaLtgAhKd60lUE" width="170" alt="Claude Code in Action" /></a><br><sub><b>Claude Code in Action</b><br>Anthropic &middot; May 2026</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQFK0XgBjuB29A/profile-treasury-document-cover-images_1280/B56Z5AaViQIEBA-/0/1779197107556?e=1786899600&v=beta&t=3nVxBO0eBkcejaawQNXRc7266JNAqHhTnF2yPBZs7Sw"><img src="https://media.licdn.com/dms/image/v2/D562DAQFK0XgBjuB29A/profile-treasury-document-cover-images_1280/B56Z5AaViQIEBA-/0/1779197107556?e=1786899600&v=beta&t=3nVxBO0eBkcejaawQNXRc7266JNAqHhTnF2yPBZs7Sw" width="170" alt="Claude Code 101" /></a><br><sub><b>Claude Code 101</b><br>Anthropic &middot; May 2026</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGCx_UOCQvFOA/profile-treasury-document-cover-images_480/B56Z4_FJ1XKwA0-/0/1779174777114?e=1786899600&v=beta&t=dX2MolFpYqacPQ_B-L3yRI0W4_2nvsZ1uwBmR5PN3E0"><img src="https://media.licdn.com/dms/image/v2/D562DAQGCx_UOCQvFOA/profile-treasury-document-cover-images_480/B56Z4_FJ1XKwA0-/0/1779174777114?e=1786899600&v=beta&t=dX2MolFpYqacPQ_B-L3yRI0W4_2nvsZ1uwBmR5PN3E0" width="170" alt="Claude 101" /></a><br><sub><b>Claude 101</b><br>Anthropic &middot; May 2026</sub></td>
-</tr>
-<tr>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHACX8_LQ_9Ng/profile-treasury-document-cover-images_480/B56Z5AaSLcIEA4-/0/1779197093810?e=1786899600&v=beta&t=8cmZT518vVrc6HBM8PQqx9diMbhy80ESo1hG_UzImLQ"><img src="https://media.licdn.com/dms/image/v2/D562DAQHACX8_LQ_9Ng/profile-treasury-document-cover-images_480/B56Z5AaSLcIEA4-/0/1779197093810?e=1786899600&v=beta&t=8cmZT518vVrc6HBM8PQqx9diMbhy80ESo1hG_UzImLQ" width="170" alt="Introduction to Claude Cowork" /></a><br><sub><b>Introduction to Claude Cowork</b><br>Anthropic &middot; May 2026</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQE6Jl42q8_oIQ/profile-treasury-document-cover-images_480/B56ZmdZ1XXG0BI-/0/1759282430368?e=1786899600&v=beta&t=kIIgqPvnQpRgzhobAZR36z9sLm1N72OfN8U7BZhMYmM"><img src="https://media.licdn.com/dms/image/v2/D562DAQE6Jl42q8_oIQ/profile-treasury-document-cover-images_480/B56ZmdZ1XXG0BI-/0/1759282430368?e=1786899600&v=beta&t=kIIgqPvnQpRgzhobAZR36z9sLm1N72OfN8U7BZhMYmM" width="170" alt="Prompt Engineering Applications" /></a><br><sub><b>Prompt Engineering Applications</b><br>Simplilearn SkillUp &middot; Sep 2025</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGk0D_c4lJciA/profile-treasury-document-cover-images_480/B56ZmdZpHHJsBI-/0/1759282374103?e=1786899600&v=beta&t=mXHJhW-ePcS0ey9knvBZk71ZSAnwpuqak5WtHqsrt_U"><img src="https://media.licdn.com/dms/image/v2/D562DAQGk0D_c4lJciA/profile-treasury-document-cover-images_480/B56ZmdZpHHJsBI-/0/1759282374103?e=1786899600&v=beta&t=mXHJhW-ePcS0ey9knvBZk71ZSAnwpuqak5WtHqsrt_U" width="170" alt="Prompt Engineering with GitHub Copilot" /></a><br><sub><b>Prompt Engineering with GitHub Copilot</b><br>Microsoft &middot; Simplilearn &middot; Sep 2025</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEdAT14blO_3A/profile-treasury-document-cover-images_480/B56ZmdZvG0KEBI-/0/1759282403786?e=1786899600&v=beta&t=CyxSE47x-2p5Y5hj50hdw1gQyKHXNZSPFAuuc5MESqg"><img src="https://media.licdn.com/dms/image/v2/D562DAQEdAT14blO_3A/profile-treasury-document-cover-images_480/B56ZmdZvG0KEBI-/0/1759282403786?e=1786899600&v=beta&t=CyxSE47x-2p5Y5hj50hdw1gQyKHXNZSPFAuuc5MESqg" width="170" alt="Introduction to Copilot for Startups" /></a><br><sub><b>Introduction to Copilot for Startups</b><br>Microsoft &middot; Simplilearn &middot; Sep 2025</sub></td>
-</tr>
-</table>
-
-#### Linux &amp; Systems Administration
-
-<table>
-<tr>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHq_Jc5ti2i9A/profile-treasury-document-cover-images_1920/B56Z.o5zmtGsBI-/0/1785245154773?e=1786899600&v=beta&t=vlhfi_RSonvGDtlRGwxiU6t_3xEVyz-DJI7W4u7gOPM"><img src="https://media.licdn.com/dms/image/v2/D562DAQHq_Jc5ti2i9A/profile-treasury-document-cover-images_1920/B56Z.o5zmtGsBI-/0/1785245154773?e=1786899600&v=beta&t=vlhfi_RSonvGDtlRGwxiU6t_3xEVyz-DJI7W4u7gOPM" width="170" alt="Red Hat System Administration II (RH134)" /></a><br><sub><b>Red Hat System Administration II (RH134)</b><br>Red Hat &middot; 40 hrs &middot; Jul 2026</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQESJ1xvFvg-RQ/profile-treasury-document-cover-images_480/B56Z32uoXcKwA0-/0/1777960913002?e=1786899600&v=beta&t=m3ek_HbmKTKLN7tUtHryBd0udn-rAFq7HZrtxc9NsE8"><img src="https://media.licdn.com/dms/image/v2/D562DAQESJ1xvFvg-RQ/profile-treasury-document-cover-images_480/B56Z32uoXcKwA0-/0/1777960913002?e=1786899600&v=beta&t=m3ek_HbmKTKLN7tUtHryBd0udn-rAFq7HZrtxc9NsE8" width="170" alt="Red Hat System Administration I (RH124)" /></a><br><sub><b>Red Hat System Administration I (RH124)</b><br>Red Hat &middot; 40 hrs &middot; May 2026</sub></td>
-</tr>
-</table>
-
-#### Data, BI &amp; Analytics
-
-<table>
-<tr>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEtIeRZL_Hitg/profile-treasury-document-cover-images_480/B56ZZ3f0mVGoAw-/0/1745761555810?e=1786899600&v=beta&t=xrCuhNtUMzUBQYdIC_TsHMF2XFCKtiLXuv_M01fnXlE"><img src="https://media.licdn.com/dms/image/v2/D562DAQEtIeRZL_Hitg/profile-treasury-document-cover-images_480/B56ZZ3f0mVGoAw-/0/1745761555810?e=1786899600&v=beta&t=xrCuhNtUMzUBQYdIC_TsHMF2XFCKtiLXuv_M01fnXlE" width="170" alt="Introduction to Data Analytics" /></a><br><sub><b>Introduction to Data Analytics</b><br>Simplilearn SkillUp &middot; Apr 2025</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQE97reG85hdfQ/profile-treasury-document-cover-images_480/B56ZaG7uxQGUA0-/0/1746020530714?e=1786899600&v=beta&t=LzNWoLTT7uQ9VqFpPJLlU6juC5mNgxtfdN5AfhOf29k"><img src="https://media.licdn.com/dms/image/v2/D562DAQE97reG85hdfQ/profile-treasury-document-cover-images_480/B56ZaG7uxQGUA0-/0/1746020530714?e=1786899600&v=beta&t=LzNWoLTT7uQ9VqFpPJLlU6juC5mNgxtfdN5AfhOf29k" width="170" alt="SQL for Data Analysis" /></a><br><sub><b>SQL for Data Analysis</b><br>Simplilearn SkillUp &middot; Apr 2025</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGudEWajOjADA/profile-treasury-document-cover-images_480/B56ZbdKfsDHUA0-/0/1747467241316?e=1786899600&v=beta&t=qwABtp3NDgDumkL7pgoqFwdR_ubOPpEyJy31TPz6IOg"><img src="https://media.licdn.com/dms/image/v2/D562DAQGudEWajOjADA/profile-treasury-document-cover-images_480/B56ZbdKfsDHUA0-/0/1747467241316?e=1786899600&v=beta&t=qwABtp3NDgDumkL7pgoqFwdR_ubOPpEyJy31TPz6IOg" width="170" alt="Power BI Data Modelling Basics" /></a><br><sub><b>Power BI Data Modelling Basics</b><br>Simplilearn SkillUp &middot; May 2025</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHZzvdDe3HUPA/profile-treasury-document-cover-images_480/B56ZbdJ3_nGsA0-/0/1747467079835?e=1786899600&v=beta&t=IeNr2aih5kEe77qoJqQK7cbCyKgK1PdbUVEGzQgxy74"><img src="https://media.licdn.com/dms/image/v2/D562DAQHZzvdDe3HUPA/profile-treasury-document-cover-images_480/B56ZbdJ3_nGsA0-/0/1747467079835?e=1786899600&v=beta&t=IeNr2aih5kEe77qoJqQK7cbCyKgK1PdbUVEGzQgxy74" width="170" alt="Business Analytics with Excel" /></a><br><sub><b>Business Analytics with Excel</b><br>Simplilearn SkillUp &middot; May 2025</sub></td>
-</tr>
-<tr>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEjzqhO8eBWuQ/profile-treasury-document-cover-images_480/B56ZbdKCwoH4Aw-/0/1747467122782?e=1786899600&v=beta&t=AT0n8zXn7XoieMwVgBEWuJ_xPrFwZ7pgfj9ykZf3ZTk"><img src="https://media.licdn.com/dms/image/v2/D562DAQEjzqhO8eBWuQ/profile-treasury-document-cover-images_480/B56ZbdKCwoH4Aw-/0/1747467122782?e=1786899600&v=beta&t=AT0n8zXn7XoieMwVgBEWuJ_xPrFwZ7pgfj9ykZf3ZTk" width="170" alt="Introduction to MS Excel" /></a><br><sub><b>Introduction to MS Excel</b><br>Simplilearn SkillUp &middot; May 2025</sub></td>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQFAhcAzpd8z4w/profile-treasury-image-shrink_480_480/B56Zdi3n1hHEAU-/0/1749710440493?e=1786899600&v=beta&t=XnWW1uxv4vXbJc2ejFrkDvVUWpBQqZjogAmT-pOPgFc"><img src="https://media.licdn.com/dms/image/v2/D562DAQFAhcAzpd8z4w/profile-treasury-image-shrink_480_480/B56Zdi3n1hHEAU-/0/1749710440493?e=1786899600&v=beta&t=XnWW1uxv4vXbJc2ejFrkDvVUWpBQqZjogAmT-pOPgFc" width="170" alt="Python" /></a><br><sub><b>Python</b><br>Kaggle &middot; Jun 2025</sub></td>
-</tr>
-</table>
-
-#### Business &amp; Marketing
-
-<table>
-<tr>
-<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHTZZ9HpLB9PQ/profile-treasury-document-cover-images_480/B56ZtzfUMvGsBQ-/0/1767169151415?e=1786899600&v=beta&t=m8gSEBAyAC4i5gGix5N1HnMIuZtU3xKJy6BGMtKFAXM"><img src="https://media.licdn.com/dms/image/v2/D562DAQHTZZ9HpLB9PQ/profile-treasury-document-cover-images_480/B56ZtzfUMvGsBQ-/0/1767169151415?e=1786899600&v=beta&t=m8gSEBAyAC4i5gGix5N1HnMIuZtU3xKJy6BGMtKFAXM" width="170" alt="Introduction to SEO" /></a><br><sub><b>Introduction to SEO</b><br>Simplilearn SkillUp &middot; Dec 2025</sub></td>
-</tr>
-</table>
-
-#### Kaggle Badges
-
-<table>
-<tr>
-<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQFUzDYrRh_MLA/profile-treasury-image-shrink_480_480/B56Zdi4AQ0GoAU-/0/1749710544976?e=1786899600&v=beta&t=OQzSwqZ78_UJyYb7O-M-BmOt9-ihf1_sAyUtvgrndYw"><img src="https://media.licdn.com/dms/image/v2/D562DAQFUzDYrRh_MLA/profile-treasury-image-shrink_480_480/B56Zdi4AQ0GoAU-/0/1749710544976?e=1786899600&v=beta&t=OQzSwqZ78_UJyYb7O-M-BmOt9-ihf1_sAyUtvgrndYw" width="110" alt="Python Coder" /></a><br><sub><b>Python Coder</b><br>Kaggle</sub></td>
-<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHXRvavIofqWA/profile-treasury-image-shrink_480_480/B56Zdi4NgXGsAM-/0/1749710594267?e=1786899600&v=beta&t=0MrPi_DLoYfDPDr9-lLaU9Iqmmwy8-DPNk8hvfrDPf0"><img src="https://media.licdn.com/dms/image/v2/D562DAQHXRvavIofqWA/profile-treasury-image-shrink_480_480/B56Zdi4NgXGsAM-/0/1749710594267?e=1786899600&v=beta&t=0MrPi_DLoYfDPDr9-lLaU9Iqmmwy8-DPNk8hvfrDPf0" width="110" alt="Dataset Creator" /></a><br><sub><b>Dataset Creator</b><br>Kaggle</sub></td>
-<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEnF7GUw0SgEA/profile-treasury-image-shrink_480_480/B56Zdi4ErHG0AQ-/0/1749710557962?e=1786899600&v=beta&t=Y9ZujHNTOuRN3zPbHx_Wwm-SebPxlXBLqdCfqcHFrhs"><img src="https://media.licdn.com/dms/image/v2/D562DAQEnF7GUw0SgEA/profile-treasury-image-shrink_480_480/B56Zdi4ErHG0AQ-/0/1749710557962?e=1786899600&v=beta&t=Y9ZujHNTOuRN3zPbHx_Wwm-SebPxlXBLqdCfqcHFrhs" width="110" alt="Github Coder" /></a><br><sub><b>Github Coder</b><br>Kaggle</sub></td>
-<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHnjzyuwkJAkg/profile-treasury-image-shrink_480_480/B56Zdi37nsHoAM-/0/1749710522257?e=1786899600&v=beta&t=rc07N_MUYNvsYJd6wUSWhuJUHVZwnbKGpEijSF8M8WI"><img src="https://media.licdn.com/dms/image/v2/D562DAQHnjzyuwkJAkg/profile-treasury-image-shrink_480_480/B56Zdi37nsHoAM-/0/1749710522257?e=1786899600&v=beta&t=rc07N_MUYNvsYJd6wUSWhuJUHVZwnbKGpEijSF8M8WI" width="110" alt="Learner" /></a><br><sub><b>Learner</b><br>Kaggle</sub></td>
-<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEZhvinqqSz4g/profile-treasury-image-shrink_480_480/B56Zdi4Qm0GsAM-/0/1749710606666?e=1786899600&v=beta&t=KPfDqXUt9Xyt0Ky8M6xBWj8j-oB4e86dEkti27j2u20"><img src="https://media.licdn.com/dms/image/v2/D562DAQEZhvinqqSz4g/profile-treasury-image-shrink_480_480/B56Zdi4Qm0GsAM-/0/1749710606666?e=1786899600&v=beta&t=KPfDqXUt9Xyt0Ky8M6xBWj8j-oB4e86dEkti27j2u20" width="110" alt="Linked Dataset Creator" /></a><br><sub><b>Linked Dataset Creator</b><br>Kaggle</sub></td>
-<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHFyg4qo_ZyaQ/profile-treasury-image-shrink_480_480/B56Zdi4KuiHUAQ-/0/1749710582599?e=1786899600&v=beta&t=l8sMp7Qy734bVVn7OpQ9ei9McoLUXr7HoUO8reDbhXA"><img src="https://media.licdn.com/dms/image/v2/D562DAQHFyg4qo_ZyaQ/profile-treasury-image-shrink_480_480/B56Zdi4KuiHUAQ-/0/1749710582599?e=1786899600&v=beta&t=l8sMp7Qy734bVVn7OpQ9ei9McoLUXr7HoUO8reDbhXA" width="110" alt="Code Forker" /></a><br><sub><b>Code Forker</b><br>Kaggle</sub></td>
-</tr>
-<tr>
-<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEuhMfzn1lnDA/profile-treasury-image-shrink_480_480/B56Zdi4IOjGoAU-/0/1749710572160?e=1786899600&v=beta&t=9r6l5T9Ly0x4og48s1E_obZ5HlLONnDWxK2b3cczQTw"><img src="https://media.licdn.com/dms/image/v2/D562DAQEuhMfzn1lnDA/profile-treasury-image-shrink_480_480/B56Zdi4IOjGoAU-/0/1749710572160?e=1786899600&v=beta&t=9r6l5T9Ly0x4og48s1E_obZ5HlLONnDWxK2b3cczQTw" width="110" alt="Code Tagger" /></a><br><sub><b>Code Tagger</b><br>Kaggle</sub></td>
-<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGqJ4Eve0AchQ/profile-treasury-image-shrink_480_480/B56Zdi4UKHH8AQ-/0/1749710621789?e=1786899600&v=beta&t=kQyfqSmKqIVkjDm9Sv4SWdM6Yp2PjG20V1w_YMgujLo"><img src="https://media.licdn.com/dms/image/v2/D562DAQGqJ4Eve0AchQ/profile-treasury-image-shrink_480_480/B56Zdi4UKHH8AQ-/0/1749710621789?e=1786899600&v=beta&t=kQyfqSmKqIVkjDm9Sv4SWdM6Yp2PjG20V1w_YMgujLo" width="110" alt="Bookmarker" /></a><br><sub><b>Bookmarker</b><br>Kaggle</sub></td>
-<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGKWHVl5I7nNw/profile-treasury-image-shrink_480_480/B56Zdi4dggGsAM-/0/1749710660069?e=1786899600&v=beta&t=SjGN3mxyAQieN00-vbN3zdqGdOydPisfKZKFbd2R4d4"><img src="https://media.licdn.com/dms/image/v2/D562DAQGKWHVl5I7nNw/profile-treasury-image-shrink_480_480/B56Zdi4dggGsAM-/0/1749710660069?e=1786899600&v=beta&t=SjGN3mxyAQieN00-vbN3zdqGdOydPisfKZKFbd2R4d4" width="110" alt="Agent of Discord" /></a><br><sub><b>Agent of Discord</b><br>Kaggle</sub></td>
-<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHHgmcU78afrA/profile-treasury-image-shrink_480_480/B56Zdi4a9fGsAM-/0/1749710648752?e=1786899600&v=beta&t=douFxVJr31QWuyv9LYhB5G1MbakGBObdrazXLsS9jQ4"><img src="https://media.licdn.com/dms/image/v2/D562DAQHHgmcU78afrA/profile-treasury-image-shrink_480_480/B56Zdi4a9fGsAM-/0/1749710648752?e=1786899600&v=beta&t=douFxVJr31QWuyv9LYhB5G1MbakGBObdrazXLsS9jQ4" width="110" alt="Vampire" /></a><br><sub><b>Vampire</b><br>Kaggle</sub></td>
-<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGyoOeQYHV2cA/profile-treasury-image-shrink_480_480/B56Zdi4W6sH8AM-/0/1749710632144?e=1786899600&v=beta&t=pFoBVgdxITvJpKYGc7a07YiYtLISiTQViovJZdD5BnI"><img src="https://media.licdn.com/dms/image/v2/D562DAQGyoOeQYHV2cA/profile-treasury-image-shrink_480_480/B56Zdi4W6sH8AM-/0/1749710632144?e=1786899600&v=beta&t=pFoBVgdxITvJpKYGc7a07YiYtLISiTQViovJZdD5BnI" width="110" alt="Stylish" /></a><br><sub><b>Stylish</b><br>Kaggle</sub></td>
-</tr>
-</table>
-
-<sub>Click any thumbnail to open it full size.</sub>
-
 </details>
-<!-- CERTS:END -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
 
 ## In the Press
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
 
 <table>
 <tr>
@@ -246,19 +158,184 @@ Asia Pacific University of Technology &amp; Innovation (APU)
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
 
-<div align="center">
+<!-- CERTS:START -->
+<details>
+<summary>&nbsp;<b>Certifications &amp; Credentials</b>&nbsp;&nbsp;<sub>33 credentials</sub></summary>
 
-> “I’ll see you at the top because the bottom is too crowded.
-> But we never look down on anybody unless we’re willing to help them up.”
-> – Zig Ziglar
+<br>
 
-</div>
+<b>Awards &amp; Competitions</b>&nbsp;&nbsp;<sub>5</sub>
 
-<img src="repository.png" alt="Repository stats">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><sub><b>Gold Award &mdash; Edu@Innovate 2025</b><br>Universiti Pendidikan Sultan Idris &middot; May 2025</sub></td>
+<td align="center" width="25%"><sub><b>Best of Gold &mdash; Edu@Innovate 2025</b><br>Universiti Pendidikan Sultan Idris &middot; May 2025</sub></td>
+<td align="center" width="25%"><sub><b>Edu@Innovate 2025 &mdash; Participation</b><br>Universiti Pendidikan Sultan Idris &middot; May 2025</sub></td>
+<td align="center" width="25%"><sub><b>MyAI Future Hackathon &mdash; Finalist</b><br>GDG on Campus, UTM &middot; 2025</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGLkpNGI75YhA/profile-treasury-document-cover-images_1920/B56Zb2gddrH4BE-/0/1747892428795?e=1786899600&v=beta&t=-JJcpxL5pxttum8DaOqeesMW0Ted0bWPSsFBUM0t0Wg"><img src="https://media.licdn.com/dms/image/v2/D562DAQGLkpNGI75YhA/profile-treasury-document-cover-images_1920/B56Zb2gddrH4BE-/0/1747892428795?e=1786899600&v=beta&t=-JJcpxL5pxttum8DaOqeesMW0Ted0bWPSsFBUM0t0Wg" width="170" alt="Gold Award - Edu@Innovate 2025" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHYn79nbJqplA/profile-treasury-document-cover-images_1920/B56Zb2ggfXHoBE-/0/1747892441266?e=1786899600&v=beta&t=z4Ta0DHGOd3GERLcMt1QSrVu5s8O64-bOL1t9V6efXc"><img src="https://media.licdn.com/dms/image/v2/D562DAQHYn79nbJqplA/profile-treasury-document-cover-images_1920/B56Zb2ggfXHoBE-/0/1747892441266?e=1786899600&v=beta&t=z4Ta0DHGOd3GERLcMt1QSrVu5s8O64-bOL1t9V6efXc" width="170" alt="Best of Gold - Edu@Innovate 2025" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEIs2l9j6_iBA/profile-treasury-document-cover-images_1920/B56Zb2gjTeHUBE-/0/1747892453536?e=1786899600&v=beta&t=IbU5nVzbsb7WY3C1Dwxj9rprzhB2ggT3Jq_v7Xy8jjg"><img src="https://media.licdn.com/dms/image/v2/D562DAQEIs2l9j6_iBA/profile-treasury-document-cover-images_1920/B56Zb2gjTeHUBE-/0/1747892453536?e=1786899600&v=beta&t=IbU5nVzbsb7WY3C1Dwxj9rprzhB2ggT3Jq_v7Xy8jjg" width="170" alt="Edu@Innovate 2025 - Participation" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEDYJ1PxnCOfQ/profile-treasury-document-cover-images_1280/B56Z7VmpgUJ0BA-/0/1781700140342?e=1786899600&v=beta&t=3hqdbIItW1DXWZ9s4X77DC9_EQNP82C37EJDZcHOckw"><img src="https://media.licdn.com/dms/image/v2/D562DAQEDYJ1PxnCOfQ/profile-treasury-document-cover-images_1280/B56Z7VmpgUJ0BA-/0/1781700140342?e=1786899600&v=beta&t=3hqdbIItW1DXWZ9s4X77DC9_EQNP82C37EJDZcHOckw" width="170" alt="MyAI Future Hackathon - Finalist" /></a></td>
+</tr>
+<tr>
+<td align="center" width="25%"><sub><b>MyAI Future Hackathon &mdash; Participation</b><br>GDG on Campus, UTM &middot; 2025</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQFedpNzPGqeXQ/profile-treasury-document-images_1280/B56Z5TSbpVKkAg-/1/1779513802445?e=1787184000&v=beta&t=Jppw9VJtOOyJ37JDwqhy7Mcq7hhLqWwXtrCqVnmhegY"><img src="https://media.licdn.com/dms/image/v2/D562DAQFedpNzPGqeXQ/profile-treasury-document-images_1280/B56Z5TSbpVKkAg-/1/1779513802445?e=1787184000&v=beta&t=Jppw9VJtOOyJ37JDwqhy7Mcq7hhLqWwXtrCqVnmhegY" width="170" alt="MyAI Future Hackathon - Participation" /></a></td>
+</tr>
+</table>
+
+<b>AI &amp; Prompt Engineering</b>&nbsp;&nbsp;<sub>8</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
+
+<table>
+<tr>
+<td align="center" width="25%"><sub><b>Artificial Intelligence Fundamentals</b><br>IBM SkillsBuild &middot; Aug 2026</sub></td>
+<td align="center" width="25%"><sub><b>Claude Code in Action</b><br>Anthropic &middot; May 2026</sub></td>
+<td align="center" width="25%"><sub><b>Claude Code 101</b><br>Anthropic &middot; May 2026</sub></td>
+<td align="center" width="25%"><sub><b>Claude 101</b><br>Anthropic &middot; May 2026</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQH70bjOjmOFMw/profile-treasury-document-images_1280/B56Z.9kylgHcAg-/1/1785591967153?e=1787184000&v=beta&t=VbLEPqKxK3M5SaONuT2dLg8msW1yiHg1ifzHH9H582A"><img src="https://media.licdn.com/dms/image/v2/D562DAQH70bjOjmOFMw/profile-treasury-document-images_1280/B56Z.9kylgHcAg-/1/1785591967153?e=1787184000&v=beta&t=VbLEPqKxK3M5SaONuT2dLg8msW1yiHg1ifzHH9H582A" width="170" alt="Artificial Intelligence Fundamentals" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGO4fmBJpx55g/profile-treasury-document-cover-images_800/B56Z5Ae5vAIYA8-/0/1779198305366?e=1786899600&v=beta&t=6sZjcbipBxgYYcoTYCGHoT1TwYPcPDaLtgAhKd60lUE"><img src="https://media.licdn.com/dms/image/v2/D562DAQGO4fmBJpx55g/profile-treasury-document-cover-images_800/B56Z5Ae5vAIYA8-/0/1779198305366?e=1786899600&v=beta&t=6sZjcbipBxgYYcoTYCGHoT1TwYPcPDaLtgAhKd60lUE" width="170" alt="Claude Code in Action" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQFK0XgBjuB29A/profile-treasury-document-cover-images_1280/B56Z5AaViQIEBA-/0/1779197107556?e=1786899600&v=beta&t=3nVxBO0eBkcejaawQNXRc7266JNAqHhTnF2yPBZs7Sw"><img src="https://media.licdn.com/dms/image/v2/D562DAQFK0XgBjuB29A/profile-treasury-document-cover-images_1280/B56Z5AaViQIEBA-/0/1779197107556?e=1786899600&v=beta&t=3nVxBO0eBkcejaawQNXRc7266JNAqHhTnF2yPBZs7Sw" width="170" alt="Claude Code 101" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGCx_UOCQvFOA/profile-treasury-document-cover-images_480/B56Z4_FJ1XKwA0-/0/1779174777114?e=1786899600&v=beta&t=dX2MolFpYqacPQ_B-L3yRI0W4_2nvsZ1uwBmR5PN3E0"><img src="https://media.licdn.com/dms/image/v2/D562DAQGCx_UOCQvFOA/profile-treasury-document-cover-images_480/B56Z4_FJ1XKwA0-/0/1779174777114?e=1786899600&v=beta&t=dX2MolFpYqacPQ_B-L3yRI0W4_2nvsZ1uwBmR5PN3E0" width="170" alt="Claude 101" /></a></td>
+</tr>
+<tr>
+<td align="center" width="25%"><sub><b>Introduction to Claude Cowork</b><br>Anthropic &middot; May 2026</sub></td>
+<td align="center" width="25%"><sub><b>Prompt Engineering Applications</b><br>Simplilearn SkillUp &middot; Sep 2025</sub></td>
+<td align="center" width="25%"><sub><b>Prompt Engineering with GitHub Copilot</b><br>Microsoft &middot; Simplilearn &middot; Sep 2025</sub></td>
+<td align="center" width="25%"><sub><b>Introduction to Copilot for Startups</b><br>Microsoft &middot; Simplilearn &middot; Sep 2025</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHACX8_LQ_9Ng/profile-treasury-document-cover-images_480/B56Z5AaSLcIEA4-/0/1779197093810?e=1786899600&v=beta&t=8cmZT518vVrc6HBM8PQqx9diMbhy80ESo1hG_UzImLQ"><img src="https://media.licdn.com/dms/image/v2/D562DAQHACX8_LQ_9Ng/profile-treasury-document-cover-images_480/B56Z5AaSLcIEA4-/0/1779197093810?e=1786899600&v=beta&t=8cmZT518vVrc6HBM8PQqx9diMbhy80ESo1hG_UzImLQ" width="170" alt="Introduction to Claude Cowork" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQE6Jl42q8_oIQ/profile-treasury-document-cover-images_480/B56ZmdZ1XXG0BI-/0/1759282430368?e=1786899600&v=beta&t=kIIgqPvnQpRgzhobAZR36z9sLm1N72OfN8U7BZhMYmM"><img src="https://media.licdn.com/dms/image/v2/D562DAQE6Jl42q8_oIQ/profile-treasury-document-cover-images_480/B56ZmdZ1XXG0BI-/0/1759282430368?e=1786899600&v=beta&t=kIIgqPvnQpRgzhobAZR36z9sLm1N72OfN8U7BZhMYmM" width="170" alt="Prompt Engineering Applications" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGk0D_c4lJciA/profile-treasury-document-cover-images_480/B56ZmdZpHHJsBI-/0/1759282374103?e=1786899600&v=beta&t=mXHJhW-ePcS0ey9knvBZk71ZSAnwpuqak5WtHqsrt_U"><img src="https://media.licdn.com/dms/image/v2/D562DAQGk0D_c4lJciA/profile-treasury-document-cover-images_480/B56ZmdZpHHJsBI-/0/1759282374103?e=1786899600&v=beta&t=mXHJhW-ePcS0ey9knvBZk71ZSAnwpuqak5WtHqsrt_U" width="170" alt="Prompt Engineering with GitHub Copilot" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEdAT14blO_3A/profile-treasury-document-cover-images_480/B56ZmdZvG0KEBI-/0/1759282403786?e=1786899600&v=beta&t=CyxSE47x-2p5Y5hj50hdw1gQyKHXNZSPFAuuc5MESqg"><img src="https://media.licdn.com/dms/image/v2/D562DAQEdAT14blO_3A/profile-treasury-document-cover-images_480/B56ZmdZvG0KEBI-/0/1759282403786?e=1786899600&v=beta&t=CyxSE47x-2p5Y5hj50hdw1gQyKHXNZSPFAuuc5MESqg" width="170" alt="Introduction to Copilot for Startups" /></a></td>
+</tr>
+</table>
+
+<b>Linux &amp; Systems Administration</b>&nbsp;&nbsp;<sub>2</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
+
+<table>
+<tr>
+<td align="center" width="25%"><sub><b>Red Hat System Administration II (RH134)</b><br>Red Hat &middot; 40 hrs &middot; Jul 2026</sub></td>
+<td align="center" width="25%"><sub><b>Red Hat System Administration I (RH124)</b><br>Red Hat &middot; 40 hrs &middot; May 2026</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHq_Jc5ti2i9A/profile-treasury-document-cover-images_1920/B56Z.o5zmtGsBI-/0/1785245154773?e=1786899600&v=beta&t=vlhfi_RSonvGDtlRGwxiU6t_3xEVyz-DJI7W4u7gOPM"><img src="https://media.licdn.com/dms/image/v2/D562DAQHq_Jc5ti2i9A/profile-treasury-document-cover-images_1920/B56Z.o5zmtGsBI-/0/1785245154773?e=1786899600&v=beta&t=vlhfi_RSonvGDtlRGwxiU6t_3xEVyz-DJI7W4u7gOPM" width="170" alt="Red Hat System Administration II (RH134)" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQESJ1xvFvg-RQ/profile-treasury-document-cover-images_480/B56Z32uoXcKwA0-/0/1777960913002?e=1786899600&v=beta&t=m3ek_HbmKTKLN7tUtHryBd0udn-rAFq7HZrtxc9NsE8"><img src="https://media.licdn.com/dms/image/v2/D562DAQESJ1xvFvg-RQ/profile-treasury-document-cover-images_480/B56Z32uoXcKwA0-/0/1777960913002?e=1786899600&v=beta&t=m3ek_HbmKTKLN7tUtHryBd0udn-rAFq7HZrtxc9NsE8" width="170" alt="Red Hat System Administration I (RH124)" /></a></td>
+</tr>
+</table>
+
+<b>Data, BI &amp; Analytics</b>&nbsp;&nbsp;<sub>6</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
+
+<table>
+<tr>
+<td align="center" width="25%"><sub><b>Introduction to Data Analytics</b><br>Simplilearn SkillUp &middot; Apr 2025</sub></td>
+<td align="center" width="25%"><sub><b>SQL for Data Analysis</b><br>Simplilearn SkillUp &middot; Apr 2025</sub></td>
+<td align="center" width="25%"><sub><b>Power BI Data Modelling Basics</b><br>Simplilearn SkillUp &middot; May 2025</sub></td>
+<td align="center" width="25%"><sub><b>Business Analytics with Excel</b><br>Simplilearn SkillUp &middot; May 2025</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEtIeRZL_Hitg/profile-treasury-document-cover-images_480/B56ZZ3f0mVGoAw-/0/1745761555810?e=1786899600&v=beta&t=xrCuhNtUMzUBQYdIC_TsHMF2XFCKtiLXuv_M01fnXlE"><img src="https://media.licdn.com/dms/image/v2/D562DAQEtIeRZL_Hitg/profile-treasury-document-cover-images_480/B56ZZ3f0mVGoAw-/0/1745761555810?e=1786899600&v=beta&t=xrCuhNtUMzUBQYdIC_TsHMF2XFCKtiLXuv_M01fnXlE" width="170" alt="Introduction to Data Analytics" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQE97reG85hdfQ/profile-treasury-document-cover-images_480/B56ZaG7uxQGUA0-/0/1746020530714?e=1786899600&v=beta&t=LzNWoLTT7uQ9VqFpPJLlU6juC5mNgxtfdN5AfhOf29k"><img src="https://media.licdn.com/dms/image/v2/D562DAQE97reG85hdfQ/profile-treasury-document-cover-images_480/B56ZaG7uxQGUA0-/0/1746020530714?e=1786899600&v=beta&t=LzNWoLTT7uQ9VqFpPJLlU6juC5mNgxtfdN5AfhOf29k" width="170" alt="SQL for Data Analysis" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGudEWajOjADA/profile-treasury-document-cover-images_480/B56ZbdKfsDHUA0-/0/1747467241316?e=1786899600&v=beta&t=qwABtp3NDgDumkL7pgoqFwdR_ubOPpEyJy31TPz6IOg"><img src="https://media.licdn.com/dms/image/v2/D562DAQGudEWajOjADA/profile-treasury-document-cover-images_480/B56ZbdKfsDHUA0-/0/1747467241316?e=1786899600&v=beta&t=qwABtp3NDgDumkL7pgoqFwdR_ubOPpEyJy31TPz6IOg" width="170" alt="Power BI Data Modelling Basics" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHZzvdDe3HUPA/profile-treasury-document-cover-images_480/B56ZbdJ3_nGsA0-/0/1747467079835?e=1786899600&v=beta&t=IeNr2aih5kEe77qoJqQK7cbCyKgK1PdbUVEGzQgxy74"><img src="https://media.licdn.com/dms/image/v2/D562DAQHZzvdDe3HUPA/profile-treasury-document-cover-images_480/B56ZbdJ3_nGsA0-/0/1747467079835?e=1786899600&v=beta&t=IeNr2aih5kEe77qoJqQK7cbCyKgK1PdbUVEGzQgxy74" width="170" alt="Business Analytics with Excel" /></a></td>
+</tr>
+<tr>
+<td align="center" width="25%"><sub><b>Introduction to MS Excel</b><br>Simplilearn SkillUp &middot; May 2025</sub></td>
+<td align="center" width="25%"><sub><b>Python</b><br>Kaggle &middot; Jun 2025</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEjzqhO8eBWuQ/profile-treasury-document-cover-images_480/B56ZbdKCwoH4Aw-/0/1747467122782?e=1786899600&v=beta&t=AT0n8zXn7XoieMwVgBEWuJ_xPrFwZ7pgfj9ykZf3ZTk"><img src="https://media.licdn.com/dms/image/v2/D562DAQEjzqhO8eBWuQ/profile-treasury-document-cover-images_480/B56ZbdKCwoH4Aw-/0/1747467122782?e=1786899600&v=beta&t=AT0n8zXn7XoieMwVgBEWuJ_xPrFwZ7pgfj9ykZf3ZTk" width="170" alt="Introduction to MS Excel" /></a></td>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQFAhcAzpd8z4w/profile-treasury-image-shrink_480_480/B56Zdi3n1hHEAU-/0/1749710440493?e=1786899600&v=beta&t=XnWW1uxv4vXbJc2ejFrkDvVUWpBQqZjogAmT-pOPgFc"><img src="https://media.licdn.com/dms/image/v2/D562DAQFAhcAzpd8z4w/profile-treasury-image-shrink_480_480/B56Zdi3n1hHEAU-/0/1749710440493?e=1786899600&v=beta&t=XnWW1uxv4vXbJc2ejFrkDvVUWpBQqZjogAmT-pOPgFc" width="170" alt="Python" /></a></td>
+</tr>
+</table>
+
+<b>Business &amp; Marketing</b>&nbsp;&nbsp;<sub>1</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
+
+<table>
+<tr>
+<td align="center" width="25%"><sub><b>Introduction to SEO</b><br>Simplilearn SkillUp &middot; Dec 2025</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHTZZ9HpLB9PQ/profile-treasury-document-cover-images_480/B56ZtzfUMvGsBQ-/0/1767169151415?e=1786899600&v=beta&t=m8gSEBAyAC4i5gGix5N1HnMIuZtU3xKJy6BGMtKFAXM"><img src="https://media.licdn.com/dms/image/v2/D562DAQHTZZ9HpLB9PQ/profile-treasury-document-cover-images_480/B56ZtzfUMvGsBQ-/0/1767169151415?e=1786899600&v=beta&t=m8gSEBAyAC4i5gGix5N1HnMIuZtU3xKJy6BGMtKFAXM" width="170" alt="Introduction to SEO" /></a></td>
+</tr>
+</table>
+
+<b>Kaggle Badges</b>&nbsp;&nbsp;<sub>11</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
+
+<table>
+<tr>
+<td align="center" width="16%"><sub><b>Python Coder</b><br>Kaggle</sub></td>
+<td align="center" width="16%"><sub><b>Dataset Creator</b><br>Kaggle</sub></td>
+<td align="center" width="16%"><sub><b>Github Coder</b><br>Kaggle</sub></td>
+<td align="center" width="16%"><sub><b>Learner</b><br>Kaggle</sub></td>
+<td align="center" width="16%"><sub><b>Linked Dataset Creator</b><br>Kaggle</sub></td>
+<td align="center" width="16%"><sub><b>Code Forker</b><br>Kaggle</sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQFUzDYrRh_MLA/profile-treasury-image-shrink_480_480/B56Zdi4AQ0GoAU-/0/1749710544976?e=1786899600&v=beta&t=OQzSwqZ78_UJyYb7O-M-BmOt9-ihf1_sAyUtvgrndYw"><img src="https://media.licdn.com/dms/image/v2/D562DAQFUzDYrRh_MLA/profile-treasury-image-shrink_480_480/B56Zdi4AQ0GoAU-/0/1749710544976?e=1786899600&v=beta&t=OQzSwqZ78_UJyYb7O-M-BmOt9-ihf1_sAyUtvgrndYw" width="110" alt="Python Coder" /></a></td>
+<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHXRvavIofqWA/profile-treasury-image-shrink_480_480/B56Zdi4NgXGsAM-/0/1749710594267?e=1786899600&v=beta&t=0MrPi_DLoYfDPDr9-lLaU9Iqmmwy8-DPNk8hvfrDPf0"><img src="https://media.licdn.com/dms/image/v2/D562DAQHXRvavIofqWA/profile-treasury-image-shrink_480_480/B56Zdi4NgXGsAM-/0/1749710594267?e=1786899600&v=beta&t=0MrPi_DLoYfDPDr9-lLaU9Iqmmwy8-DPNk8hvfrDPf0" width="110" alt="Dataset Creator" /></a></td>
+<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEnF7GUw0SgEA/profile-treasury-image-shrink_480_480/B56Zdi4ErHG0AQ-/0/1749710557962?e=1786899600&v=beta&t=Y9ZujHNTOuRN3zPbHx_Wwm-SebPxlXBLqdCfqcHFrhs"><img src="https://media.licdn.com/dms/image/v2/D562DAQEnF7GUw0SgEA/profile-treasury-image-shrink_480_480/B56Zdi4ErHG0AQ-/0/1749710557962?e=1786899600&v=beta&t=Y9ZujHNTOuRN3zPbHx_Wwm-SebPxlXBLqdCfqcHFrhs" width="110" alt="Github Coder" /></a></td>
+<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHnjzyuwkJAkg/profile-treasury-image-shrink_480_480/B56Zdi37nsHoAM-/0/1749710522257?e=1786899600&v=beta&t=rc07N_MUYNvsYJd6wUSWhuJUHVZwnbKGpEijSF8M8WI"><img src="https://media.licdn.com/dms/image/v2/D562DAQHnjzyuwkJAkg/profile-treasury-image-shrink_480_480/B56Zdi37nsHoAM-/0/1749710522257?e=1786899600&v=beta&t=rc07N_MUYNvsYJd6wUSWhuJUHVZwnbKGpEijSF8M8WI" width="110" alt="Learner" /></a></td>
+<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEZhvinqqSz4g/profile-treasury-image-shrink_480_480/B56Zdi4Qm0GsAM-/0/1749710606666?e=1786899600&v=beta&t=KPfDqXUt9Xyt0Ky8M6xBWj8j-oB4e86dEkti27j2u20"><img src="https://media.licdn.com/dms/image/v2/D562DAQEZhvinqqSz4g/profile-treasury-image-shrink_480_480/B56Zdi4Qm0GsAM-/0/1749710606666?e=1786899600&v=beta&t=KPfDqXUt9Xyt0Ky8M6xBWj8j-oB4e86dEkti27j2u20" width="110" alt="Linked Dataset Creator" /></a></td>
+<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHFyg4qo_ZyaQ/profile-treasury-image-shrink_480_480/B56Zdi4KuiHUAQ-/0/1749710582599?e=1786899600&v=beta&t=l8sMp7Qy734bVVn7OpQ9ei9McoLUXr7HoUO8reDbhXA"><img src="https://media.licdn.com/dms/image/v2/D562DAQHFyg4qo_ZyaQ/profile-treasury-image-shrink_480_480/B56Zdi4KuiHUAQ-/0/1749710582599?e=1786899600&v=beta&t=l8sMp7Qy734bVVn7OpQ9ei9McoLUXr7HoUO8reDbhXA" width="110" alt="Code Forker" /></a></td>
+</tr>
+<tr>
+<td align="center" width="16%"><sub><b>Code Tagger</b><br>Kaggle</sub></td>
+<td align="center" width="16%"><sub><b>Bookmarker</b><br>Kaggle</sub></td>
+<td align="center" width="16%"><sub><b>Agent of Discord</b><br>Kaggle</sub></td>
+<td align="center" width="16%"><sub><b>Vampire</b><br>Kaggle</sub></td>
+<td align="center" width="16%"><sub><b>Stylish</b><br>Kaggle</sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQEuhMfzn1lnDA/profile-treasury-image-shrink_480_480/B56Zdi4IOjGoAU-/0/1749710572160?e=1786899600&v=beta&t=9r6l5T9Ly0x4og48s1E_obZ5HlLONnDWxK2b3cczQTw"><img src="https://media.licdn.com/dms/image/v2/D562DAQEuhMfzn1lnDA/profile-treasury-image-shrink_480_480/B56Zdi4IOjGoAU-/0/1749710572160?e=1786899600&v=beta&t=9r6l5T9Ly0x4og48s1E_obZ5HlLONnDWxK2b3cczQTw" width="110" alt="Code Tagger" /></a></td>
+<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGqJ4Eve0AchQ/profile-treasury-image-shrink_480_480/B56Zdi4UKHH8AQ-/0/1749710621789?e=1786899600&v=beta&t=kQyfqSmKqIVkjDm9Sv4SWdM6Yp2PjG20V1w_YMgujLo"><img src="https://media.licdn.com/dms/image/v2/D562DAQGqJ4Eve0AchQ/profile-treasury-image-shrink_480_480/B56Zdi4UKHH8AQ-/0/1749710621789?e=1786899600&v=beta&t=kQyfqSmKqIVkjDm9Sv4SWdM6Yp2PjG20V1w_YMgujLo" width="110" alt="Bookmarker" /></a></td>
+<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGKWHVl5I7nNw/profile-treasury-image-shrink_480_480/B56Zdi4dggGsAM-/0/1749710660069?e=1786899600&v=beta&t=SjGN3mxyAQieN00-vbN3zdqGdOydPisfKZKFbd2R4d4"><img src="https://media.licdn.com/dms/image/v2/D562DAQGKWHVl5I7nNw/profile-treasury-image-shrink_480_480/B56Zdi4dggGsAM-/0/1749710660069?e=1786899600&v=beta&t=SjGN3mxyAQieN00-vbN3zdqGdOydPisfKZKFbd2R4d4" width="110" alt="Agent of Discord" /></a></td>
+<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQHHgmcU78afrA/profile-treasury-image-shrink_480_480/B56Zdi4a9fGsAM-/0/1749710648752?e=1786899600&v=beta&t=douFxVJr31QWuyv9LYhB5G1MbakGBObdrazXLsS9jQ4"><img src="https://media.licdn.com/dms/image/v2/D562DAQHHgmcU78afrA/profile-treasury-image-shrink_480_480/B56Zdi4a9fGsAM-/0/1749710648752?e=1786899600&v=beta&t=douFxVJr31QWuyv9LYhB5G1MbakGBObdrazXLsS9jQ4" width="110" alt="Vampire" /></a></td>
+<td align="center" width="16%"><a href="https://media.licdn.com/dms/image/v2/D562DAQGyoOeQYHV2cA/profile-treasury-image-shrink_480_480/B56Zdi4W6sH8AM-/0/1749710632144?e=1786899600&v=beta&t=pFoBVgdxITvJpKYGc7a07YiYtLISiTQViovJZdD5BnI"><img src="https://media.licdn.com/dms/image/v2/D562DAQGyoOeQYHV2cA/profile-treasury-image-shrink_480_480/B56Zdi4W6sH8AM-/0/1749710632144?e=1786899600&v=beta&t=pFoBVgdxITvJpKYGc7a07YiYtLISiTQViovJZdD5BnI" width="110" alt="Stylish" /></a></td>
+</tr>
+</table>
+
+<sub>Click any thumbnail to open it full size.</sub>
+
+</details>
+<!-- CERTS:END -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
+
+<p align="center">
+  <i>“I’ll see you at the top because the bottom is too crowded.<br>
+  But we never look down on anybody unless we’re willing to help them up.”</i><br>
+  <sub>— Zig Ziglar</sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:1F6FEB&height=3&section=header" width="100%" alt="" />
+
+<p align="center">
+  <img src="repository.png" width="100%" alt="Repository stats" />
+</p>
+
+<p align="center">
   <i>⭐ Star my repositories if you find them interesting!</i><br>
   <i>🤝 Open to collaborations and learning opportunities</i>
-</div>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,100:1F6FEB&height=120&section=footer" width="100%" alt="" />
