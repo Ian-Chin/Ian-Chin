@@ -8,6 +8,7 @@
 <h3 align="center">BI Analyst &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; AI Developer &nbsp;·&nbsp; Entrepreneur</h3>
 
 <p align="center">
+2x Gold Medalist eduinnovate Winner, 1x Hackathon Finalist<br>
 Part-Time Business Intelligence Analyst<br>
 Building <a href="https://iunami.com">Iunami Agentics</a> — B2B/B2C AI SaaS<br>
 Bachelor of Computer Science (Artificial Intelligence), Year 2<br>
