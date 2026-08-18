@@ -5,7 +5,7 @@
 
 <!-- Title and Welcome -->
 <h1 align="center">Hi, Welcome to my Portfolio</h1>
-<h3 align="center">BI Analyst &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; AI Developer &nbsp;·&nbsp; Entrepreneur</h3>
+<h3 align="center">BI Analyst &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; AI Developer &nbsp;·&nbsp; Founder</h3>
 
 <p align="center">
 2x Gold Medalist eduinnovate Winner, 1x Hackathon Finalist<br>
