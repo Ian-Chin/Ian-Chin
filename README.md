@@ -3,7 +3,7 @@
   <img width="100%" alt="Ian Chin — portfolio banner" src="https://github.com/user-attachments/assets/0bf01a61-8c85-4eed-a775-e306bd11cb50" />
 </p>
 
-<!-- Title and Welcome -->
+<!--- Title and Welcome --->
 <h1 align="center">Hi, Welcome to my Portfolio</h1>
 <h3 align="center">BI Analyst &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; AI Developer &nbsp;·&nbsp; Founder</h3>
 
