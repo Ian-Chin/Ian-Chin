@@ -10,13 +10,13 @@
 <p align="center">
 2x Gold Medalist eduinnovate Winner, 1x Hackathon Finalist<br>
 Part-Time Business Intelligence Analyst<br>
-Building <a href="https://iunami.com">Iunami Agentics</a> — B2B/B2C AI SaaS<br>
+B2B/B2C AI SaaS<br>
 Bachelor of Computer Science (Artificial Intelligence), Year 2<br>
 Asia Pacific University of Technology &amp; Innovation (APU)
 </p>
 
 <p align="center">
-  <a href="mailto:ian.chin@iunami.com"><img src="https://img.shields.io/badge/Business_Inquiries-ian.chin@iunami.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:iancjsheng@gmail.com"><img src="https://img.shields.io/badge/Business_Inquiries-iancjsheng@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ixnizuu.vercel.app/video"><img src="https://img.shields.io/badge/Video_Editor_Portfolio-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Video editor portfolio" /></a>
   <a href="Ian-Chin-Resume-2026.pdf"><img src="https://img.shields.io/badge/Résumé-2026-1F6FEB?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé 2026 (PDF)" /></a>
 </p>
